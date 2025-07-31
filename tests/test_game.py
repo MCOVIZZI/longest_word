@@ -11,7 +11,7 @@ class TestGame:
 
         # verify
         assert isinstance(grid, list)
-        assert len(grid) == 9
+        assert len(grid) == 30
         for letter in grid:
             assert letter in string.ascii_uppercase
     def test_empty_word_is_invalid(self):
