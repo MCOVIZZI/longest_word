@@ -1,0 +1,439 @@
+Script started on 2025-08-01 19:24:56+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="154" LINES="14"]
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word/src/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[4ms[24m[24m[1m[31ms[1m[31mc[0m[39m[0m[39ms[0m[39mc
+[0mscandeps            scp                 script              scsi_logging_level  scsi_ready          scsi_stop                             
+sched               screen              scriptlive          scsi_mandat         scsi_satl           scsi_temperature                      
+[Jschemagen           [Jscreendump          [Jscriptreplay        [Jscsi_readcap        [Jscsi_start          [J                                    [3A[0m[27m[24m[31Csc[K[109C[🐍 3.12.8][120D[4ms[24m [24m [32mr[39m[1m[31mr[1m[31mu[0m[39m[1m[31mr[1m[31mu[1m[31mn[0m[39m [1m[31mr[1m[31mu[0m[39m[0m[39m [0m[32mr[39m[0m[39m [39m [32mp[39m[1m[31mp[1m[31my[0m[39m[1m[31mp[1m[31my[1m[31mt[0m[39m[1m[31mt[1m[31mh[0m[39m[1m[31mh[1m[31mo[0m[39m[0m[32mp[0m[32my[0m[32mt[0m[32mh[0m[32mo[32mn[39m [4ms[24m[4ms[4mc[24m[4mc[4mript1.py[24m[1m [0m[0m [?1l>[?2004l
+[J]2;python script1.py]1;pythonLook for A
+['I', 'P', 'E', 'A', 'U', 'Q', 'K', 'V', 'F', 'N', 'B', 'R', 'S', 'L', 'I', 'E', 'E', 'F', 'U', 'X', 'D', 'Z', 'P', 'J', 'A', 'M', 'C', 'S', 'R', 'J']
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word/src/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mpython[39m [4mscript1.py[24m[17D[32ms[32mc[32mr[32mi[32mp[32mt[39m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [11D[32mm[32mo[32mr[32me[39m[39m [39m[4ms[4mcript1.py[24m[15D[32mt[32mr[32me[2C[24m[39m [24m [24m [24m [24m [24m [24m [24m [24m [24m [11D[32mm[32mo[32mr[32me[39m [4mscript1.py[24m[15D[32ms[32mc[32mr[32mi[32mp[24m[32mt[39m[24m [24m [24m [24m [24m [24m [24m [24m [24m [9D[32mp[32my[32mt[32mh[32mo[32mn[39m [4mscript1.py[24m[17D[39m [39m [39m [39m [39m [39m  [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [17D[1m[31mc[0m[39m[1m[31mc[1m[31mo[0m[39m[1m[31mc[1m[31mo[1m[31md[0m[39m[0m[32mc[0m[32mo[0m[32md[32me[39m [4ms[24m[4ms[4mc[24m[4mc[4mr[24m[4mr[4mi[24m[4mi[4mp[24m[4mp[4mt1.py[24m[1m [0m[0m [?1l>[?2004l
+]2;code script1.py]1;code[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word/src/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mcode[39m [4mscript1.py[24m[15D[32mp[32my[32mt[32mh[32mo[24m[32mn[39m[24m [4ms[4mc[4mr[4mi[4mp[4mt[4m1[4m.[4mpy[24m[?1l>[?2004l
+]2;python script1.py]1;pythonLook for O
+['G', 'V', 'Y', 'I', 'V', 'R', 'F', 'Y', 'A', 'F', 'O', 'E', 'V', 'K', 'N', 'A', 'W', 'R', 'A', 'A', 'V', 'G', 'Y', 'V', 'P', 'K', 'J', 'A', 'Z', 'E']
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word/src/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mpython[39m [4mscript1.py[24m[?1l>[?2004l
+]2;python script1.py]1;pythonLook for O
+['L', 'B', 'I', 'Q', 'L', 'C', 'E', 'Y', 'Z', 'A', 'N', 'L', 'B', 'J', 'Y', 'E', 'Q', 'A', 'W', 'C', 'W', 'B', 'K', 'I', 'D', 'X', 'W', 'W', 'P', 'H']
+Not possible
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word/src/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004hT[1m[31mT[1m[31mR[0m[39m[0m[36mT[39m[0m[39m [39m [32mt[39m[32mt[32mr[39m[1m[31mt[1m[31mr[1m[31me[0m[39m[0m[32mt[0m[32mr[0m[32me[32me[39m[?1l>[?2004l
+]2;tree]1;tree[01;34m.[0m
+├── game.py
+├── __init__.py
+├── [01;34m__pycache__[0m
+│   ├── game.cpython-312.pyc
+│   ├── __init__.cpython-312.pyc
+│   └── wsgi.cpython-312.pyc
+├── script1.py
+├── [01;34mstatic[0m
+│   └── style.css
+├── [01;34mtemplates[0m
+│   ├── check.html
+│   └── home.html
+├── typescript
+└── wsgi.py
+
+3 directories, 11 files
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word/src/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsgame.py  __init__.py  [0m[01;34m__pycache__[0m  script1.py  [01;34mstatic[0m  [01;34mtemplates[0m  typescript  wsgi.py
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word/src/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[1m[31mc[0m[39m[0m[32mc[32md[39m [4m.[24m[4m.[4m.[24m[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word/src]1;..gest_word/src[0m[27m[24m[J[01;32m➜  [36msrc[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[120C[🐍 3.12.8][131D[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;ls[0m[01;34mlongest_word[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word/src]1;..gest_word/src[0m[27m[24m[J[01;32m➜  [36msrc[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[120C[🐍 3.12.8][131D[?1h=[?2004h[1m[31mc[0m[39m[0m[32mc[32md[39m [4m.[24m[4m.[4m.[24m[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lspoetry.lock  [0m[01;34m__pycache__[0m  pyproject.toml  README.md  [01;34msrc[0m  [01;34mtests[0m  wsgi.py
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mt[39m[32mt[32mr[39m[1m[31mt[1m[31mr[1m[31me[0m[39m[0m[32mt[0m[32mr[0m[32me[32me[39m[?1l>[?2004l
+]2;tree]1;tree[01;34m.[0m
+├── poetry.lock
+├── [01;34m__pycache__[0m
+│   └── wsgi.cpython-312.pyc
+├── pyproject.toml
+├── README.md
+├── [01;34msrc[0m
+│   └── [01;34mlongest_word[0m
+│       ├── game.py
+│       ├── __init__.py
+│       ├── [01;34m__pycache__[0m
+│       │   ├── game.cpython-312.pyc
+│       │   ├── __init__.cpython-312.pyc
+│       │   └── wsgi.cpython-312.pyc
+│       ├── script1.py
+│       ├── [01;34mstatic[0m
+│       │   └── style.css
+│       ├── [01;34mtemplates[0m
+│       │   ├── check.html
+│       │   └── home.html
+│       ├── typescript
+│       └── wsgi.py
+├── [01;34mtests[0m
+│   ├── __init__.py
+│   ├── [01;34m__pycache__[0m
+│   │   ├── __init__.cpython-312.pyc
+│   │   └── test_game.cpython-312-pytest-8.4.1.pyc
+│   └── test_game.py
+└── wsgi.py
+
+8 directories, 20 files
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mt[39m[32mt[32mr[39m[1m[31mt[1m[31mr[1m[31me[0m[39m[0m[32mt[0m[32mr[0m[32me[32me[39m : [34m?[39m[?1l>[?2004l
+]2;tree ?]1;treezsh: no matches found: ?
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mt[39m[32mt[32mr[39m[1m[31mt[1m[31mr[1m[31me[0m[39m help    [0m[32mt[0m[32mr[39m[0m[39m [32mt[39m[39m [39m [32mt[39m[32mt[32mr[39m[1m[31mt[1m[31mr[1m[31me[0m[39m[0m[32mt[0m[32mr[0m[32me[32me[39m help[?1l>[?2004l
+]2;tree help]1;treehelp  [error opening dir]
+
+0 directories, 0 files
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mt[39m[32mt[32mr[39m[1m[31mt[1m[31mr[1m[31me[0m[39m[0m[32mt[0m[32mr[0m[32me[32me[39m [4m_[24m[24m -qwqw[?1l>[?2004l
+]2;tree -qwqw]1;treehere i = 1, n = 2
+tree: Invalid argument -`w'.
+usage: tree [-acdfghilnpqrstuvxACDFJQNSUX] [-L level [-R]] [-H  baseHREF]
+	[-T title] [-o filename] [-P pattern] [-I pattern] [--gitignore]
+	[--matchdirs] [--metafirst] [--ignore-case] [--nolinks] [--inodes]
+	[--device] [--sort[=]<name>] [--dirsfirst] [--filesfirst]
+	[--filelimit #] [--si] [--du] [--prune] [--charset X]
+	[--timefmt[=]format] [--fromfile] [--noreport] [--version] [--help]
+	[--] [directory ...]
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mt[39m[32mt[32mr[39m[1m[31mt[1m[31mr[1m[31me[0m[39m[0m[32mt[0m[32mr[0m[32me[32me[39m --help[?1l>[?2004l
+]2;tree --help]1;treeusage: tree [-acdfghilnpqrstuvxACDFJQNSUX] [-L level [-R]] [-H  baseHREF]
+	[-T title] [-o filename] [-P pattern] [-I pattern] [--gitignore]
+	[--matchdirs] [--metafirst] [--ignore-case] [--nolinks] [--inodes]
+	[--device] [--sort[=]<name>] [--dirsfirst] [--filesfirst]
+	[--filelimit #] [--si] [--du] [--prune] [--charset X]
+	[--timefmt[=]format] [--fromfile] [--noreport] [--version] [--help]
+	[--] [directory ...]
+  ------- Listing options -------
+  -a            All files are listed.
+  -d            List directories only.
+  -l            Follow symbolic links like directories.
+  -f            Print the full path prefix for each file.
+  -x            Stay on current filesystem only.
+  -L level      Descend only level directories deep.
+  -R            Rerun tree when max dir level reached.
+  -P pattern    List only those files that match the pattern given.
+  -I pattern    Do not list files that match the given pattern.
+  --gitignore   Filter by using .gitignore files.
+  --ignore-case Ignore case when pattern matching.
+  --matchdirs   Include directory names in -P pattern matching.
+  --metafirst   Print meta-data at the beginning of each line.
+  --info        Print information about files found in .info files.
+  --noreport    Turn off file/directory count at end of tree listing.
+  --charset X   Use charset X for terminal/HTML and indentation line output.
+  --filelimit # Do not descend dirs with more than # files in them.
+  -o filename   Output to file instead of stdout.
+  ------- File options -------
+  -q            Print non-printable characters as '?'.
+  -N            Print non-printable characters as is.
+  -Q            Quote filenames with double quotes.
+  -p            Print the protections for each file.
+  -u            Displays file owner or UID number.
+  -g            Displays file group owner or GID number.
+  -s            Print the size in bytes of each file.
+  -h            Print the size in a more human readable way.
+  --si          Like -h, but use in SI units (powers of 1000).
+  -D            Print the date of last modification or (-c) status change.
+  --timefmt <f> Print and format time according to the format <f>.
+  -F            Appends '/', '=', '*', '@', '|' or '>' as per ls -F.
+  --inodes      Print inode number of each file.
+  --device      Print device ID number to which each file belongs.
+  ------- Sorting options -------
+  -v            Sort files alphanumerically by version.
+  -t            Sort files by last modification time.
+  -c            Sort files by last status change time.
+  -U            Leave files unsorted.
+  -r            Reverse the order of the sort.
+  --dirsfirst   List directories before files (-U disables).
+  --filesfirst  List files before directories (-U disables).
+  --sort X      Select sort: name,version,size,mtime,ctime.
+  ------- Graphics options -------
+  -i            Don't print indentation lines.
+  -A            Print ANSI lines graphic indentation lines.
+  -S            Print with CP437 (console) graphics indentation lines.
+  -n            Turn colorization off always (-C overrides).
+  -C            Turn colorization on always.
+  ------- XML/HTML/JSON options -------
+  -X            Prints out an XML representation of the tree.
+  -J            Prints out an JSON representation of the tree.
+  -H baseHREF   Prints out HTML format with baseHREF as top directory.
+  -T string     Replace the default HTML title and H1 header with string.
+  --nolinks     Turn off hyperlinks in HTML output.
+  ------- Input options -------
+  --fromfile    Reads paths from files (.=stdin)
+  ------- Miscellaneous options -------
+  --version     Print version and exit.
+  --help        Print usage and this help message and exit.
+  --            Options processing terminator.
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mt[39m[32mt[32mr[39m[1m[31mt[1m[31mr[1m[31me[0m[39m[0m[32mt[0m[32mr[0m[32me[32me[39m -a [33m>[39m [4mt[24m[24mtree.txt[?1l>[?2004l
+]2;tree -a > tree.txt]1;tree[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[1m[31mm[0m[39m[1m[31mm[1m[31mo[0m[39m[1m[31mm[1m[31mo[1m[31mr[0m[39m[0m[32mm[0m[32mo[0m[32mr[32me[39m [4mt[24m[4mt[4me[24m[4mt[24m[24m [24m [1m[31mm[1m[31mo[1m[31mr[0m[39m[39m [1m[31mm[1m[31mo[0m[39m[0m[39m [1m[31mm[0m[39m[0m[39m [0m[39m [32ml[39m[1m[31ml[1m[31me[0m[39m[1m[31ml[1m[31me[1m[31ms[0m[39m[0m[32ml[0m[32me[0m[32ms[32ms[39m [4mt[24m[4mt[4mr[24m[4mr[4me[24m[4me[4me[24m[4me[4m.txt[24m[1m [0m[0m [?1l>[?2004l
+]2;less tree.txt]1;less[?1049h[22;0;0t[?1h=.[m
+├── .git[m
+│   ├── branches[m
+│   ├── COMMIT_EDITMSG[m
+│   ├── config[m
+│   ├── description[m
+│   ├── FETCH_HEAD[m
+│   ├── HEAD[m
+│   ├── hooks[m
+│   │   ├── applypatch-msg.sample[m
+│   │   ├── commit-msg.sample[m
+│   │   ├── fsmonitor-watchman.sample[m
+│   │   ├── post-update.sample[m
+[7mtree.txt[27m[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[K│   │   ├── pre-applypatch.sample[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── pre-commit.sample[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── pre-merge-commit.sample[m
+:[K[K [KESCESC[KOO[KAA[K[HM│   ├── branches[m
+[14;1H[K:[K[K [KESCESC[KOO[KAA[K[HM├── .git[m
+[14;1H[K:[K[K [KESCESC[KOO[KAA[K[HM.[m
+[14;1H[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[K│   │   ├── pre-applypatch.sample[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── pre-commit.sample[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── pre-merge-commit.sample[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── prepare-commit-msg.sample[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── pre-push.sample[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── pre-rebase.sample[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── pre-receive.sample[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── push-to-checkout.sample[m
+:[K[K [KESCESC[KOO[KBB[K│   │   └── update.sample[m
+:[K[K [KESCESC[KOO[KBB[K│   ├── index[m
+:[K[K [KESCESC[KOO[KBB[K│   ├── info[m
+:[K[K [KESCESC[KOO[KBB[K│   │   └── exclude[m
+:[K[K [KESCESC[KOO[KBB[K│   ├── logs[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── HEAD[m
+:[K[K [KESCESC[KOO[KBB[K│   │   └── refs[m
+:[K[K [KESCESC[KOO[KBB[K│   │       ├── heads[m
+:[K[K [KESCESC[KOO[KBB[K│   │       │   └── master[m
+:[K[K [KESCESC[KOO[KBB[K│   │       └── remotes[m
+:[K[K [KESCESC[KOO[KBB[K│   │           └── origin[m
+:[K[K [KESCESC[KOO[KBB[K│   │               ├── dictionary-api[m
+:[K[K [KESCESC[KOO[KBB[K│   │               ├── http-server[m
+:[K[K [KESCESC[KOO[KBB[K│   │               └── master[m
+:[K[K [KESCESC[KOO[KBB[K│   ├── objects[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 06[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 16bb6aaed9ce8bf3e588d7d2b920d2a76afa2f[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 16[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 952d29b257d8cc7633666ced78abe3fbe9797d[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 17[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── cccdd1800bcf1053e5c7cd9ff7de99f9e38288[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 18[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   ├── 2ba8188b569a06f00b8405e9ec775b5b60cd8d[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── a7a6abb954024bbc2f2cbd45b7d9bcff8a6fd6[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 1c[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 76c216488826056415a7e9db247eb1de4b812f[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 1e[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   ├── cefb7e79a9b2cc12ad6ee05629d1cf26923ae6[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── ea729246f19ac10060a81b3248b5af5d6d660e[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 20[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── b7b974bf3de1e107623fdc0f658edb8c64c69a[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 22[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 5cd92dc86418dc4d490c02770483618142cbe5[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 24[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 77fe03057ec9c5f4a85537014103d0ddf4b576[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 29[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 3f5354cace9769e34a240a8f5a538bb018d5a4[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 2c[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── a39bb8484b7e7ade5bbfb0e47082c30529faaf[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 2e[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   ├── 2bbbc04b753ed3c3a1095afe86617c9633d6d0[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 7b44d20f4bc208b3d1601118e94742197b8978[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 33[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 8d8f989e5f85436e6e472291c90b402e0800fc[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 36[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 49c26b936f89f94c788620671b15e05de7e6b9[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 38[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 75d585fe7910e68fdb72632566033ccef310c3[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 3d[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 8c01a6ee4581e77c5a266f666eb847393eabd5[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 42[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 99c9dd3f02d2416108d252dd2c45ba2f5473ee[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 45[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   ├── 11431d5320dc98c1143505328504a137c65b61[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── acb5981eeeee06cc66c462e3b7599e475a9bf4[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 46[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 8457f04658a9a93b24b57d84338900a04eb9ba[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 4c[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── a13e9da1e6c35cc8c1b9f3d5b9c8d2a679946a[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 54[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   ├── 45323fc9b7603d690304f33bf26e335897c0fc[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 86c60ba88186609c7fbeaf23ec17df3cf2aef8[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 59[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 34afe9e199243f2ca74131a6e4b51641ddb999[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 5f[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 79c53d6f65b593f03b5efde9f256d7acd792fd[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 60[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── af7e5bbb5f59de3da52b7783ee32d8fe020414[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 62[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── d26d55a082292182f0f848023331e7b49ddbe6[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 66[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 2972c7d569174b3a36ebce868c7f2cd80f8a0c[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 67[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── c47864a7963cc12fa4f4eeef32d345b4f40d99[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 69[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 3165e93a2285a4191a92c5de56b5e417e9cfa3[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 6d[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 32d266a2636a3ac3e3c9f5ca35bc173b1a110f[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 71[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 65728e3f9f2533d58897832ef79a84cd2ac98e[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 77[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 00811639c46ecb1e239e7bcb01e9706feed1e9[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 7e[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── aab63ecfdf6dcc65c328b25b9629953b429299[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 80[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 5e20e8080fb908bc5e29a21d07cd198b086bb9[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 82[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── fe6bb782b9f49aab64c1ac1727a44a0dfed906[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 83[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 00cb4cd6f94b28f1205ef52253fc6ed8409336[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 86[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 649bfe1c1a78838df634a2f2f03fb4c5f13d6d[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 8b[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── a930455883f599a2eef860db2ee22f11eac6f3[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 8d[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── df180f85513794a1943847b3bc7330a7d0ffef[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 90[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 07a6adadd305fc55629b937620fa6760bb8dd0[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 95[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 66a74fcb1f799a7c43ad29c82b83dd7cc714f2[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 97[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── d63929cb7adca05a160b255bb6fef73f3fa858[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 9a[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 65b0fefd7f14a66ee5c786b09c3298338200f2[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 9b[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── decfe2909abfd7ddd968ff94a1be54528bc860[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── 9f[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 7ad61d72b680081ca662ff362dc70e33228c63[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── a1[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 5a67f58ac8eb75cd6378f4d4f8c70cb8ae42d7[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── a2[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 940e84fb0127453898300d2a8d900cdb975cb0[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── ac[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 00e66104bca97fb2e80ea2bce3121e6b6870ab[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── b9[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── b366dfa335b3d5be38b720819858fa198b593a[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── bc[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 7008f2dfe901f41cd5c6fc23502c181b8c8420[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── c0[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── b172fe335307d118041bfbfd206e28802d2031[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── cb[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   ├── 79a4bf398e6aa4bc2a68d6ede18740a61d2b4c[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── c931f783fee5276f1f04c82e6b0064470d41b9[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── cc[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   ├── 7ca81b95742f1db1dc7b822285e78fdc9fe91c[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── fb6b095eb0dc9808669ec2f776de6fe83f6f85[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── ce[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── cfd1ea6607fba0e001f35e4e3246081a4d0bb6[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── d7[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── ad26135f1a1c7a5ecb4ac55e50c7baf9516958[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── db[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── e26babff1dc088b969934e494a4b353381388a[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── dc[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── e0e375d07746ab80ce77299a3ee2192aa7f527[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── e5[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 29e17423668b66bab5347c4b7afc2a1f82d4d9[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── e6[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   ├── 4597c1dc38e999ab34dec2f49d3634a8d3e375[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── e7[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 232a50e6808953a6c9019a733092cf7f164c28[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── e9[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 61a48358af60037d825d61e79dcf6a0a6924ef[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── ec[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   ├── bc9a4bcedceffd19ecbd0a1e911152544ad728[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── d681511bed0256572f305f893b786ebe0e2191[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── ed[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 202442544be35c4f726fef2fa4f604b8492232[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── ee[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── f2e76d56bf9c352b18f3771f86e3e9a1344325[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── ef[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 3883e84adac70600c6b5f42107f61b5ce58293[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── f6[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 733302c9963eb9afd85393692bcdf1b60a1f40[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── f8[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 20f296fca98688bb8c6c7802b43bef2a1b9476[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── ff[m
+:[K[K [KESCESC[KOO[KBB[K│   │   │   └── 1349becc55624f5b3190d6e24bd87482208dd4[m
+:[K[K [KESCESC[KOO[KBB[K│   │   ├── info[m
+:[K[K [KESCESC[KOO[KBB[K│   │   └── pack[m
+:[K[K [KESCESC[KOO[KBB[K│   ├── ORIG_HEAD[m
+:[K[K [KESCESC[KOO[KBB[K│   ├── packed-refs[m
+:[K[K [KESCESC[KOO[KBB[K│   └── refs[m
+:[K[K [KESCESC[KOO[KBB[K│       ├── heads[m
+:[K[K [KESCESC[KOO[KBB[K│       │   └── master[m
+:[K[K [KESCESC[KOO[KBB[K│       ├── remotes[m
+:[K[K [KESCESC[KOO[KBB[K│       │   └── origin[m
+:[K[K [KESCESC[KOO[KBB[K│       │       ├── dictionary-api[m
+:[K[K [KESCESC[KOO[KBB[K│       │       ├── http-server[m
+:[K[K [KESCESC[KOO[KBB[K│       │       └── master[m
+:[K[K [KESCESC[KOO[KBB[K│       └── tags[m
+:[K[K [KESCESC[KOO[KBB[K├── .github[m
+:[K[K [KESCESC[KOO[KBB[K│   └── workflows[m
+:[K[K [KESCESC[KOO[KBB[K│       └── .python-ci.yml[m
+:[K[K [KESCESC[KOO[KBB[K├── .gitignore[m
+:[K[K [KESCESC[KOO[KBB[K├── poetry.lock[m
+:[K[K [KESCESC[KOO[KBB[K├── __pycache__[m
+:[K[K [KESCESC[KOO[KBB[K│   └── wsgi.cpython-312.pyc[m
+:[K[K [KESCESC[KOO[KBB[K├── pyproject.toml[m
+:[K[K [KESCESC[KOO[KBB[K├── .pytest_cache[m
+:[K[K [KESCESC[KOO[KBB[K│   ├── CACHEDIR.TAG[m
+:[K[K [KESCESC[KOO[KBB[K│   ├── .gitignore[m
+:[K[K [KESCESC[KOO[KBB[K│   ├── README.md[m
+:[K[K [KESCESC[KOO[KBB[K│   └── v[m
+:[K[K [KESCESC[KOO[KBB[K│       └── cache[m
+:[K[K [KESCESC[KOO[KBB[K│           ├── lastfailed[m
+:[K[K [KESCESC[KOO[KBB[K│           └── nodeids[m
+:[K[K [KESCESC[KOO[KBB[K├── README.md[m
+:[K[K [KESCESC[KOO[KBB[K├── src[m
+:[K[K [KESCESC[KOO[KBB[K│   └── longest_word[m
+:[K[K [KESCESC[KOO[KBB[K│       ├── game.py[m
+:[K[K [KESCESC[KOO[KBB[K│       ├── __init__.py[m
+:[K[K [KESCESC[KOO[KBB[K│       ├── __pycache__[m
+:[K[K [KESCESC[KOO[KBB[K│       │   ├── game.cpython-312.pyc[m
+:[K[K [KESCESC[KOO[KBB[K│       │   ├── __init__.cpython-312.pyc[m
+:[K[K [KESCESC[KOO[KBB[K│       │   └── wsgi.cpython-312.pyc[m
+:[K[K [KESCESC[KOO[KBB[K│       ├── script1.py[m
+:[K[K [KESCESC[KOO[KBB[K│       ├── static[m
+:[K[K [KESCESC[KOO[KBB[K│       │   └── style.css[m
+:[K[K [KESCESC[KOO[KBB[K│       ├── templates[m
+:[K[K [KESCESC[KOO[KBB[K│       │   ├── check.html[m
+:[K[K [KESCESC[KOO[KBB[K│       │   └── home.html[m
+:[K[K[?1l>[?1049l[23;0;0t
+[1]  + 34651 suspended  less tree.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mt[39m[32mt[32mr[39m[1m[31mt[1m[31mr[1m[31me[0m[39m[0m[32mt[0m[32mr[0m[32me[32me[39m -a | [32mg[39m[32mg[32mr[39m[1m[31mg[1m[31mr[1m[31me[0m[39m[1m[31me[1m[31me[0m[39m[1m[31me[0m[39m[0m[39m [0m[32mg[0m[32mr[0m[32me[32mp[39m yaml[?1l>[?2004l
+]2;tree -a | grep --color yaml]1;tree[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lspoetry.lock  [0m[01;34m__pycache__[0m  pyproject.toml  README.md  [01;34msrc[0m  [01;34mtests[0m  tree.txt  wsgi.py
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mt[39m[1m[31mt[1m[31mo[0m[39m[1m[31mt[1m[31mo[1m[31mu[0m[39m[1m[31mu[1m[31mc[0m[39m[0m[32mt[0m[32mo[0m[32mu[0m[32mc[32mh[39m main.py[?1l>[?2004l
+]2;touch main.py]1;touch[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31mo[0m[39m[1m[31mc[1m[31mo[1m[31md[0m[39m[0m[32mc[0m[32mo[0m[32md[32me[39m [4mm[24m[4mm[4ma[24m[4ma[4min.py[24m[1m [0m[0m [?1l>[?2004l
+]2;code main.py]1;code[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[7mpipx inject poetry poetry-plugin-export[27m[39D[27m[32mp[27m[32mi[27m[32mp[27m[32mx[39m[27m [27mi[27mn[27mj[27me[27mc[27mt[27m [27mp[27mo[27me[27mt[27mr[27my[27m [27mp[27mo[27me[27mt[27mr[27my[27m-[27mp[27ml[27mu[27mg[27mi[27mn[27m-[27me[27mx[27mp[27mo[27mr[27mt[?1l>[?2004l
+]2;pipx inject poetry poetry-plugin-export]1;pipx[?25l[K[K⣷ installing poetry-plugin-export[K[K⣯ installing poetry-plugin-export[K[K⣟ installing poetry-plugin-export[K[K⡿ installing poetry-plugin-export[K[K⢿ installing poetry-plugin-export[K[K⣻ installing poetry-plugin-export[K[K⣽ installing poetry-plugin-export[K[K⣾ installing poetry-plugin-export[K[K⣷ installing poetry-plugin-export[K[K⣯ installing poetry-plugin-export[K[K⣟ installing poetry-plugin-export[K[K⡿ installing poetry-plugin-export[K[K⢿ installing poetry-plugin-export[K[K⣻ installing poetry-plugin-export[K[K⣽ installing poetry-plugin-export[K[K⣾ installing poetry-plugin-export[K[K  injected package [1mpoetry-plugin-export[0m into venv [1mpoetry[0m
+done! ✨ 🌟 ✨
+[?25h[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[7mpoetry export --without-hashes --output requirements.txt[27m[56D[27m[32mp[27m[32mo[27m[32me[27m[32mt[27m[32mr[27m[32my[39m[27m [27me[27mx[27mp[27mo[27mr[27mt[27m [27m-[27m-[27mw[27mi[27mt[27mh[27mo[27mu[27mt[27m-[27mh[27ma[27ms[27mh[27me[27ms[27m [27m-[27m-[27mo[27mu[27mt[27mp[27mu[27mt[27m [27mr[27me[27mq[27mu[27mi[27mr[27me[27mm[27me[27mn[27mt[27ms[27m.[27mt[27mx[27mt[?1l>[?2004l
+]2;poetry export --without-hashes --output requirements.txt]1;poetry[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mt[39m[1m[31mt[1m[31mo[0m[39m[1m[31mt[1m[31mo[1m[31mu[0m[39m[1m[31mu[1m[31mc[0m[39m[0m[32mt[0m[32mo[0m[32mu[0m[32mc[32mh[39m app.yaml[?1l>[?2004l
+]2;touch app.yaml]1;touch[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[7mtouch .gcloudignore[27m[19D[27m[32mt[27m[32mo[27m[32mu[27m[32mc[27m[32mh[39m[27m [27m.[27mg[27mc[27ml[27mo[27mu[27md[27mi[27mg[27mn[27mo[27mr[27me[?1l>[?2004l
+]2;touch .gcloudignore]1;touch[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31mo[0m[39m[1m[31mc[1m[31mo[1m[31md[0m[39m[0m[32mc[0m[32mo[0m[32md[32me[39m [4m.[24m[4m.[4mg[24m[4mg[4mi[24m[4mi[4mt[24m[4mi[24m[24m [4mg[24m[24m [4m.[24m[24m [24m [4m.[24m[4m.[4mg[24m[4mg[4mc[24m[4mc[4ml[24m[4ml[4moudignore[24m[1m [0m[0m [?1l>[?2004l
+]2;code .gcloudignore]1;code[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[7mgcloud app deploy[27m[17D[27m[32mg[27m[32mc[27m[32ml[27m[32mo[27m[32mu[27m[32md[39m[27m [27ma[27mp[27mp[27m [27md[27me[27mp[27ml[27mo[27my[?1l>[?2004l
+]2;gcloud app deploy]1;gcloud[1;33mWARNING:[0m You might be using automatic scaling for a standard environment deployment, without providing a value for automatic_scaling.max_instances. Starting from March, 2025, App Engine sets the automatic scaling maximum instances default for standard environment deployments to 20. This change doesn't impact existing apps. To override the default, specify the new max_instances value in your app.yaml file, and deploy a new version or redeploy over an existing version. For details on max_instances, see https://cloud.google.com/appengine/docs/standard/reference/app-yaml.md#scaling_elements. 
+
+Services to deploy:
+
+descriptor:                  [/home/mauriciocovizzi/code/MCOVIZZI/longest_word/app.yaml]
+source:                      [/home/mauriciocovizzi/code/MCOVIZZI/longest_word]
+target project:              [le-wagon-bootcamp-467320]
+target service:              [default]
+target version:              [20250801t200950]
+target url:                  [https://le-wagon-bootcamp-467320.uw.r.appspot.com]
+target service account:      [le-wagon-bootcamp-467320@appspot.gserviceaccount.com]
+
+
+Do you want to continue (Y/n)?  Y
+
+Beginning deployment of service [default]...
+╔════════════════════════════════════════════════════════════╗
+╠═ Uploading 126 files to Google Cloud Storage              ═╣
+╚════════════════════════════════════════════════════════════╝
+File upload done.
+                                                                                                                                                         Updating service [default]...                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...failed.
+[1;31mERROR:[0m (gcloud.app.deploy) Error Response: [13] Failed to create cloud build: com.google.net.rpc3.client.RpcClientException: <eye3 title='/ArgoAdminNoCloudAudit.CreateBuild, FAILED_PRECONDITION'/> APPLICATION_ERROR;google.devtools.cloudbuild.v1/ArgoAdminNoCloudAudit.CreateBuild;invalid bucket "staging.le-wagon-bootcamp-467320.appspot.com"; service account le-wagon-bootcamp-467320@appspot.gserviceaccount.com does not have access to the bucket;AppErrorCode=9;StartTimeMs=1754079052442;unknown;ResFormat=uncompressed;ServerTimeSec=0.650674942;LogBytes=256;Non-FailFast;EndUserCredsRequested;EffSecLevel=privacy_and_integrity;ReqFormat=uncompressed;ReqID=b84f060ee4f3c59f;GlobalID=0;Server=[2002:a05:6a20:7f88:b0:23d:43ec:e59]:4001.
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsapp.yaml  main.py  poetry.lock  [0m[01;34m__pycache__[0m  pyproject.toml  README.md  requirements.txt  [01;34msrc[0m  [01;34mtests[0m  tree.txt  wsgi.py
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[1m[31mm[0m[39m[1m[31mm[1m[31ma[0m[39m[1m[31mm[1m[31ma[1m[31mk[0m[39m[0m[32mm[0m[32ma[0m[32mk[32me[39m[?1l>[?2004l
+]2;make]1;makemake: *** No targets specified and no makefile found.  Stop.
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004hp[1m[31mp[1m[31mo[0m[39m[1m[31mp[1m[31mo[1m[31me[0m[39m[1m[31me[1m[31mt[0m[39m[1m[31mt[1m[31mr[0m[39m[0m[32mp[0m[32mo[0m[32me[0m[32mt[0m[32mr[32my[39m install [4mm[24m[4mm[4ma[24m[24mm[24make[?1l>[?2004l
+]2;poetry install make]1;poetry
+[31;1mNo arguments expected for "install" command, got "make"[39;22m
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsapp.yaml  main.py  poetry.lock  [0m[01;34m__pycache__[0m  pyproject.toml  README.md  requirements.txt  [01;34msrc[0m  [01;34mtests[0m  tree.txt  wsgi.py
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mp[39m[1m[31mp[1m[31my[0m[39m[1m[31mp[1m[31my[1m[31mt[0m[39m[1m[31mt[1m[31me[0m[39m[1m[31me[1m[31ms[0m[39m[1m[31ms[1m[31mt[0m[39m -v[?1l>[?2004l
+]2;pytest -v]1;pytestzsh: command not found: pytest
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mp[39m[1m[31mp[1m[31mo[0m[39m[1m[31mp[1m[31mo[1m[31me[0m[39m[1m[31me[1m[31mt[0m[39m[1m[31mt[1m[31mr[0m[39m[0m[32mp[0m[32mo[0m[32me[0m[32mt[0m[32mr[32my[39m [4mr[24m[24mrun [4mp[24m[4mp[4my[24m[24mp[24mytest -v[?1l>[?2004l
+]2;poetry run pytest -v]1;poetry[1m====================================
