@@ -436,4 +436,543 @@ File upload done.
 [1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mp[39m[1m[31mp[1m[31my[0m[39m[1m[31mp[1m[31my[1m[31mt[0m[39m[1m[31mt[1m[31me[0m[39m[1m[31me[1m[31ms[0m[39m[1m[31ms[1m[31mt[0m[39m -v[?1l>[?2004l
 ]2;pytest -v]1;pytestzsh: command not found: pytest
 [1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mp[39m[1m[31mp[1m[31mo[0m[39m[1m[31mp[1m[31mo[1m[31me[0m[39m[1m[31me[1m[31mt[0m[39m[1m[31mt[1m[31mr[0m[39m[0m[32mp[0m[32mo[0m[32me[0m[32mt[0m[32mr[32my[39m [4mr[24m[24mrun [4mp[24m[4mp[4my[24m[24mp[24mytest -v[?1l>[?2004l
-]2;poetry run pytest -v]1;poetry[1m====================================
+]2;poetry run pytest -v]1;poetry[1m================================================================== test session starts ===================================================================[0m
+platform linux -- Python 3.12.8, pytest-8.4.1, pluggy-1.6.0 -- /home/mauriciocovizzi/code/MCOVIZZI/longest_word/.venv/bin/python
+cachedir: .pytest_cache
+rootdir: /home/mauriciocovizzi/code/MCOVIZZI/longest_word
+configfile: pyproject.toml
+[1mcollecting ... [0m[1mcollected 4 items                                                                                                                                        [0m
+
+tests/test_game.py::TestGame::test_game_initialization [32mPASSED[0m[32m                                                                                      [ 25%][0m
+tests/test_game.py::TestGame::test_empty_word_is_invalid [32mPASSED[0m[32m                                                                                    [ 50%][0m
+tests/test_game.py::TestGame::test_is_valid [32mPASSED[0m[32m                                                                                                 [ 75%][0m
+tests/test_game.py::TestGame::test_is_invalid [32mPASSED[0m[32m                                                                                               [100%][0m
+
+[32m=================================================================== [32m[1m4 passed[0m[32m in 0.02s[0m[32m ====================================================================[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsapp.yaml  main.py  poetry.lock  [0m[01;34m__pycache__[0m  pyproject.toml  README.md  requirements.txt  [01;34msrc[0m  [01;34mtests[0m  tree.txt  wsgi.py
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4ma[24m[24madd [4m.[24m[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4ms[24m[24msa[4ms[24m [24mstatus[?1l>[?2004l
+]2;git status]1;gitOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .gcloudignore[m
+	[32mnew file:   app.yaml[m
+	[32mnew file:   main.py[m
+	[32mmodified:   poetry.lock[m
+	[32mmodified:   pyproject.toml[m
+	[32mnew file:   requirements.txt[m
+	[32mmodified:   src/longest_word/script1.py[m
+	[32mnew file:   src/longest_word/typescript[m
+	[32mnew file:   tree.txt[m
+	[32mnew file:   wsgi.py[m
+
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m branch[?1l>[?2004l
+]2;git branch]1;git[?1h=* [32mmaster[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m commit -m [33m"[39m[33m"[33mC[39m[33mC[33mD[39m[33mD[33m [39m[33m [33mC[39m[33mC[33mO[39m[33mO[33mn[39m[33mO[39m[39m [33mC[39m[39m [33mC[33mo[39m[33mo[33mn[39m[33mn[33mt[39m[33mt[33mi[39m[33mi[33mn[39m[33mn[33mu[39m[33mu[33mo[39m[33mo[33mu[39m[33mu[33ms[39m[33ms[33m [39m[33m [33mD[39m[33mD[33me[39m[33me[33mp[39m[33mp[33ml[39m[33ml[33mo[39m[33mo[33my[39m[33my[33mm[39m[33mm[33me[39m[33me[33mn[39m[33mn[33mt[39m[33mt[33m [39m[33mt[39m[39m [33mt[33m"[39m[33mt[39m[39m [33mt[33m [39m[33m [33mb[39m[33mb[33me[39m[33me[33mf[39m[33mf[33mo[39m[33mo[33mr[39m[33mr[33me[39m[33me[33m [39m[33m [33ma[39m[33ma[33mp[39m[33mp[33mp[39m[33mp[33m [39m[33m [33md[39m[33md[33me[39m[33me[33mp[39m[33mp[33ml[39m[33ml[33mo[39m[33mo[33my[39m[33my[33m"[39m[?1l>[?2004l
+]2;git commit -m "CD Continuous Deployment before app deploy"]1;git[master c655905] CD Continuous Deployment before app deploy
+ 10 files changed, 3143 insertions(+), 5 deletions(-)
+ create mode 100644 .gcloudignore
+ create mode 100644 app.yaml
+ create mode 100644 main.py
+ create mode 100644 requirements.txt
+ create mode 100644 src/longest_word/typescript
+ create mode 100644 tree.txt
+ create mode 100644 wsgi.py
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4mp[24m[24mpusch   h origin[1m [0m[0m [4mm[24m[4mm[4ma[24m[24mm[24master[?1l>[?2004l
+]2;git push origin master]1;gitEnumerating objects: 20, done.
+Counting objects:   5% (1/20)Counting objects:  10% (2/20)Counting objects:  15% (3/20)Counting objects:  20% (4/20)Counting objects:  25% (5/20)Counting objects:  30% (6/20)Counting objects:  35% (7/20)Counting objects:  40% (8/20)Counting objects:  45% (9/20)Counting objects:  50% (10/20)Counting objects:  55% (11/20)Counting objects:  60% (12/20)Counting objects:  65% (13/20)Counting objects:  70% (14/20)Counting objects:  75% (15/20)Counting objects:  80% (16/20)Counting objects:  85% (17/20)Counting objects:  90% (18/20)Counting objects:  95% (19/20)Counting objects: 100% (20/20)Counting objects: 100% (20/20), done.
+Delta compression using up to 4 threads
+Compressing objects:   7% (1/13)Compressing objects:  15% (2/13)Compressing objects:  23% (3/13)Compressing objects:  30% (4/13)Compressing objects:  38% (5/13)Compressing objects:  46% (6/13)Compressing objects:  53% (7/13)Compressing objects:  61% (8/13)Compressing objects:  69% (9/13)Compressing objects:  76% (10/13)Compressing objects:  84% (11/13)Compressing objects:  92% (12/13)Compressing objects: 100% (13/13)Compressing objects: 100% (13/13), done.
+Writing objects:   7% (1/14)Writing objects:  14% (2/14)Writing objects:  21% (3/14)Writing objects:  28% (4/14)Writing objects:  35% (5/14)Writing objects:  42% (6/14)Writing objects:  50% (7/14)Writing objects:  57% (8/14)Writing objects:  64% (9/14)Writing objects:  71% (10/14)Writing objects:  78% (11/14)Writing objects:  85% (12/14)Writing objects:  92% (13/14)Writing objects: 100% (14/14)Writing objects: 100% (14/14), 32.03 KiB | 4.58 MiB/s, done.
+Total 14 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To github.com:MCOVIZZI/longest_word.git
+   e529e17..c655905  master -> master
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsapp.yaml  main.py  poetry.lock  [0m[01;34m__pycache__[0m  pyproject.toml  README.md  requirements.txt  [01;34msrc[0m  [01;34mtests[0m  tree.txt  wsgi.py
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[7mgcloud app deploy[27m[17D[27m[32mg[27m[32mc[27m[32ml[27m[32mo[27m[32mu[27m[32md[39m[27m [27ma[27mp[27mp[27m [27md[27me[27mp[27ml[27mo[27my[?1l>[?2004l
+]2;gcloud app deploy]1;gcloud[1;33mWARNING:[0m You might be using automatic scaling for a standard environment deployment, without providing a value for automatic_scaling.max_instances. Starting from March, 2025, App Engine sets the automatic scaling maximum instances default for standard environment deployments to 20. This change doesn't impact existing apps. To override the default, specify the new max_instances value in your app.yaml file, and deploy a new version or redeploy over an existing version. For details on max_instances, see https://cloud.google.com/appengine/docs/standard/reference/app-yaml.md#scaling_elements. 
+
+Services to deploy:
+
+descriptor:                  [/home/mauriciocovizzi/code/MCOVIZZI/longest_word/app.yaml]
+source:                      [/home/mauriciocovizzi/code/MCOVIZZI/longest_word]
+target project:              [le-wagon-bootcamp-467320]
+target service:              [default]
+target version:              [20250801t202430]
+target url:                  [https://le-wagon-bootcamp-467320.uw.r.appspot.com]
+target service account:      [le-wagon-bootcamp-467320@appspot.gserviceaccount.com]
+
+
+Do you want to continue (Y/n)?  ^Z
+[2]  + 42449 suspended  gcloud app deploy
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsapp.yaml  main.py  poetry.lock  [0m[01;34m__pycache__[0m  pyproject.toml  README.md  requirements.txt  [01;34msrc[0m  [01;34mtests[0m  tree.txt  wsgi.py
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mls[39m[32mg[32mc[32mloud[39m app deploy[?1l>[?2004l
+]2;gcloud app deploy]1;gcloud[1;33mWARNING:[0m You might be using automatic scaling for a standard environment deployment, without providing a value for automatic_scaling.max_instances. Starting from March, 2025, App Engine sets the automatic scaling maximum instances default for standard environment deployments to 20. This change doesn't impact existing apps. To override the default, specify the new max_instances value in your app.yaml file, and deploy a new version or redeploy over an existing version. For details on max_instances, see https://cloud.google.com/appengine/docs/standard/reference/app-yaml.md#scaling_elements. 
+
+Services to deploy:
+
+descriptor:                  [/home/mauriciocovizzi/code/MCOVIZZI/longest_word/app.yaml]
+source:                      [/home/mauriciocovizzi/code/MCOVIZZI/longest_word]
+target project:              [le-wagon-bootcamp-467320]
+target service:              [default]
+target version:              [20250801t203957]
+target url:                  [https://le-wagon-bootcamp-467320.uw.r.appspot.com]
+target service account:      [le-wagon-bootcamp-467320@appspot.gserviceaccount.com]
+
+
+Do you want to continue (Y/n)?  
+
+Beginning deployment of service [default]...
+╔════════════════════════════════════════════════════════════╗
+╠═ Uploading 22 files to Google Cloud Storage               ═╣
+╚════════════════════════════════════════════════════════════╝
+File upload done.
+                                                                                                                                                         Updating service [default]...                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...⠏                                                                                                                                                         Updating service [default]...⠛                                                                                                                                                         Updating service [default]...⠹                                                                                                                                                         Updating service [default]...⠼                                                                                                                                                         Updating service [default]...⠶                                                                                                                                                         Updating service [default]...⠧                                                                                                                                                         Updating service [default]...done.
+                                                                                                                                                         Setting traffic split for service [default]...                                                                                                                                                         Setting traffic split for service [default]...⠛                                                                                                                                                         Setting traffic split for service [default]...⠹                                                                                                                                                         Setting traffic split for service [default]...⠼                                                                                                                                                         Setting traffic split for service [default]...⠶                                                                                                                                                         Setting traffic split for service [default]...⠧                                                                                                                                                         Setting traffic split for service [default]...⠏                                                                                                                                                         Setting traffic split for service [default]...⠛                                                                                                                                                         Setting traffic split for service [default]...⠹                                                                                                                                                         Setting traffic split for service [default]...⠼                                                                                                                                                         Setting traffic split for service [default]...done.
+Deployed service [default] to [https://le-wagon-bootcamp-467320.uw.r.appspot.com]
+
+You can stream logs from the command line by running:
+  $ gcloud app logs tail -s default
+
+To view your application in the web browser run:
+  $ gcloud app browse
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls --color=tty]1;lsapp.yaml  main.py  poetry.lock  [0m[01;34m__pycache__[0m  pyproject.toml  README.md  requirements.txt  [01;34msrc[0m  [01;34mtests[0m  tree.txt  wsgi.py
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[7mtouch .github/workflows/.app-engine-cd.yml[27m[42D[27m[32mt[27m[32mo[27m[32mu[27m[32mc[27m[32mh[39m[27m [27m.[27mg[27mi[27mt[27mh[27mu[27mb[27m/[27mw[27mo[27mr[27mk[27mf[27ml[27mo[27mw[27ms[27m/[27m.[27ma[27mp[27mp[27m-[27me[27mn[27mg[27mi[27mn[27me[27m-[27mc[27md[27m.[27my[27mm[27ml[?1l>[?2004l
+]2;touch .github/workflows/.app-engine-cd.yml]1;touch[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31mo[0m[39m[1m[31mc[1m[31mo[1m[31md[0m[39m[0m[32mc[0m[32mo[0m[32md[32me[39m [39mc[39mo[39md[39me [7m.github/workflows/.app-engine-cd.yml[27m[41D[32mc[32mo[32md[32me[39m [27m[4m.[27m[4mg[27m[4mi[27m[4mt[27m[4mh[27m[4mu[27m[4mb[27m[4m/[27m[4mw[27m[4mo[27m[4mr[27m[4mk[27m[4mf[27m[4ml[27m[4mo[27m[4mw[27m[4ms[27m[4m/[27m[4m.[27m[4ma[27m[4mp[27m[4mp[27m[4m-[27m[4me[27m[4mn[27m[4mg[27m[4mi[27m[4mn[27m[4me[27m[4m-[27m[4mc[27m[4md[27m[4m.[27m[4my[27m[4mm[27m[4ml[24m[?1l>[?2004l
+]2;code .github/workflows/.app-engine-cd.yml]1;code[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m checkou --help[?1l>[?2004l
+]2;git checkou --help]1;gitWARNING: You called a Git command named 'checkou', which does not exist.
+Continuing in 0.1 seconds, assuming that you meant 'checkout'.
+[?1049h[22;0;0t[?1h=GIT-CHECKOUT(1)                                                       Git Manual                                                       GIT-CHECKOUT(1)[m
+[m
+[1mNAME[0m[m
+       git-checkout - Switch branches or restore working tree files[m
+[m
+[1mSYNOPSIS[0m[m
+       [4mgit[24m [4mcheckout[24m [-q] [-f] [-m] [<branch>][m
+       [4mgit[24m [4mcheckout[24m [-q] [-f] [-m] --detach [<branch>][m
+       [4mgit[24m [4mcheckout[24m [-q] [-f] [-m] [--detach] <commit>[m
+       [4mgit[24m [4mcheckout[24m [-q] [-f] [-m] [[-b|-B|--orphan] <new_branch>] [<start_point>][m
+       [4mgit[24m [4mcheckout[24m [-f|--ours|--theirs|-m|--conflict=<style>] [<tree-ish>] [--] <pathspec>...[m
+       [4mgit[24m [4mcheckout[24m [-f|--ours|--theirs|-m|--conflict=<style>] [<tree-ish>] --pathspec-from-file=<file> [--pathspec-file-nul][m
+       [4mgit[24m [4mcheckout[24m (-p|--patch) [<tree-ish>] [--] [<pathspec>...][m
+[m
+[1mDESCRIPTION[0m[m
+       Updates files in the working tree to match the version in the index or the specified tree. If no pathspec was given, [4mgit[24m [4mcheckout[24m will also[m
+       update [1mHEAD[0m to set the specified branch as the current branch.[m
+[m
+       [4mgit[24m [4mcheckout[24m [<branch>][m
+           To prepare for working on [1m<branch>[0m, switch to it by updating the index and the files in the working tree, and by pointing [1mHEAD[0m at the[m
+           branch. Local modifications to the files in the working tree are kept, so that they can be committed to the [1m<branch>[0m.[m
+[m
+           If [1m<branch>[0m is not found but there does exist a tracking branch in exactly one remote (call it [1m<remote>[0m) with a matching name and[m
+           [1m--no-guess[0m is not specified, treat as equivalent to[m
+[m
+               $ git checkout -b <branch> --track <remote>/<branch>[m
+[m
+[7m Manual page git-checkout(1) line 1 (press h for help or q to quit)[27m[K[K           You could omit [1m<branch>[0m, in which case the command degenerates to "check out the current branch", which is a glorified no-op with rather[m
+           expensive side-effects to show only the tracking information, if exists, for the current branch.[m
+[m
+       [4mgit[24m [4mcheckout[24m -b|-B <new_branch> [<start point>][m
+           Specifying [1m-b[0m causes a new branch to be created as if [1mgit-branch[0m(1) were called and then checked out. In this case you can use the [1m--track[0m[m
+           or [1m--no-track[0m options, which will be passed to [4mgit[24m [4mbranch[24m. As a convenience, [1m--track[0m without [1m-b[0m implies branch creation; see the[m
+           description of [1m--track[0m below.[m
+[m
+           If [1m-B[0m is given, [1m<new_branch>[0m is created if it doesn’t exist; otherwise, it is reset. This is the transactional equivalent of[m
+[m
+               $ git branch -f <branch> [<start point>][m
+               $ git checkout <branch>[m
+[m
+           that is to say, the branch is not reset/created unless "git checkout" is successful.[m
+[m
+       [4mgit[24m [4mcheckout[24m --detach [<branch>], [4mgit[24m [4mcheckout[24m [--detach] <commit>[m
+           Prepare to work on top of [1m<commit>[0m, by detaching [1mHEAD[0m at it (see "DETACHED HEAD" section), and updating the index and the files in the[m
+           working tree. Local modifications to the files in the working tree are kept, so that the resulting working tree will be the state recorded[m
+           in the commit plus the local modifications.[m
+[m
+           When the [1m<commit>[0m argument is a branch name, the [1m--detach[0m option can be used to detach [1mHEAD[0m at the tip of the branch ([1mgit[0m [1mcheckout[0m [1m<branch>[0m[m
+           would check out that branch without detaching [1mHEAD[0m).[m
+[m
+           Omitting [1m<branch>[0m detaches [1mHEAD[0m at the tip of the current branch.[m
+[m
+       [4mgit[24m [4mcheckout[24m [-f|--ours|--theirs|-m|--conflict=<style>] [<tree-ish>] [--] <pathspec>..., [4mgit[24m [4mcheckout[24m[m
+       [-f|--ours|--theirs|-m|--conflict=<style>] [<tree-ish>] --pathspec-from-file=<file> [--pathspec-file-nul][m
+[7m Manual page git-checkout(1) line 28 (press h for help or q to quit)[27m[K[K           Overwrite the contents of the files that match the pathspec. When the [1m<tree-ish>[0m (most often a commit) is not given, overwrite working tree[m
+           with the contents in the index. When the [1m<tree-ish>[0m is given, overwrite both the index and the working tree with the contents at the[m
+           [1m<tree-ish>[0m.[m
+[m
+           The index may contain unmerged entries because of a previous failed merge. By default, if you try to check out such an entry from the[m
+           index, the checkout operation will fail and nothing will be checked out. Using [1m-f[0m will ignore these unmerged entries. The contents from a[m
+           specific side of the merge can be checked out of the index by using [1m--ours[0m or [1m--theirs[0m. With [1m-m[0m, changes made to the working tree file can[m
+           be discarded to re-create the original conflicted merge result.[m
+[m
+       [4mgit[24m [4mcheckout[24m (-p|--patch) [<tree-ish>] [--] [<pathspec>...][m
+           This is similar to the previous mode, but lets you use the interactive interface to show the "diff" output and choose which hunks to use in[m
+           the result. See below for the description of [1m--patch[0m option.[m
+[m
+[1mOPTIONS[0m[m
+       -q, --quiet[m
+           Quiet, suppress feedback messages.[m
+[m
+       --progress, --no-progress[m
+           Progress status is reported on the standard error stream by default when it is attached to a terminal, unless [1m--quiet[0m is specified. This[m
+           flag enables progress reporting even if not attached to a terminal, regardless of [1m--quiet[0m.[m
+[m
+       -f, --force[m
+           When switching branches, proceed even if the index or the working tree differs from [1mHEAD[0m, and even if there are untracked files in the way.[m
+           This is used to throw away local changes and any untracked files or directories that are in the way.[m
+[m
+           When checking out paths from the index, do not fail upon unmerged entries; instead, unmerged entries are ignored.[m
+[m
+[7m Manual page git-checkout(1) line 55 (press h for help or q to quit)[27m[K[K       --ours, --theirs[m
+           When checking out paths from the index, check out stage #2 ([4mours[24m) or #3 ([4mtheirs[24m) for unmerged paths.[m
+[m
+           Note that during [1mgit[0m [1mrebase[0m and [1mgit[0m [1mpull[0m [1m--rebase[0m, [4mours[24m and [4mtheirs[24m may appear swapped; [1m--ours[0m gives the version from the branch the changes[m
+           are rebased onto, while [1m--theirs[0m gives the version from the branch that holds your work that is being rebased.[m
+[m
+           This is because [1mrebase[0m is used in a workflow that treats the history at the remote as the shared canonical one, and treats the work done on[m
+           the branch you are rebasing as the third-party work to be integrated, and you are temporarily assuming the role of the keeper of the[m
+           canonical history during the rebase. As the keeper of the canonical history, you need to view the history from the remote as [1mours[0m (i.e.[m
+           "our shared canonical history"), while what you did on your side branch as [1mtheirs[0m (i.e. "one contributor’s work on top of it").[m
+[m
+       -b <new_branch>[m
+           Create a new branch named [1m<new_branch>[0m and start it at [1m<start_point>[0m; see [1mgit-branch[0m(1) for details.[m
+[m
+       -B <new_branch>[m
+           Creates the branch [1m<new_branch>[0m and start it at [1m<start_point>[0m; if it already exists, then reset it to [1m<start_point>[0m. This is equivalent to[m
+           running "git branch" with "-f"; see [1mgit-branch[0m(1) for details.[m
+[m
+       -t, --track[m
+           When creating a new branch, set up "upstream" configuration. See "--track" in [1mgit-branch[0m(1) for details.[m
+[m
+           If no [1m-b[0m option is given, the name of the new branch will be derived from the remote-tracking branch, by looking at the local part of the[m
+           refspec configured for the corresponding remote, and then stripping the initial part up to the "*". This would tell us to use [1mhack[0m as the[m
+           local branch when branching off of [1morigin/hack[0m (or [1mremotes/origin/hack[0m, or even [1mrefs/remotes/origin/hack[0m). If the given name has no slash,[m
+           or the above guessing results in an empty name, the guessing is aborted. You can explicitly give a name with [1m-b[0m in such a case.[m
+[m
+       --no-track[m
+[7m Manual page git-checkout(1) line 82 (press h for help or q to quit)[27m[K[K           Do not set up "upstream" configuration, even if the [1mbranch.autoSetupMerge[0m configuration variable is true.[m
+[m
+       --guess, --no-guess[m
+           If [1m<branch>[0m is not found but there does exist a tracking branch in exactly one remote (call it [1m<remote>[0m) with a matching name, treat as[m
+           equivalent to[m
+[m
+               $ git checkout -b <branch> --track <remote>/<branch>[m
+[m
+           If the branch exists in multiple remotes and one of them is named by the [1mcheckout.defaultRemote[0m configuration variable, we’ll use that one[m
+           for the purposes of disambiguation, even if the [1m<branch>[0m isn’t unique across all remotes. Set it to e.g.  [1mcheckout.defaultRemote=origin[0m to[m
+           always checkout remote branches from there if [1m<branch>[0m is ambiguous but exists on the [4morigin[24m remote. See also [1mcheckout.defaultRemote[0m in[m
+           [1mgit-config[0m(1).[m
+[m
+           [1m--guess[0m is the default behavior. Use [1m--no-guess[0m to disable it.[m
+[m
+           The default behavior can be set via the [1mcheckout.guess[0m configuration variable.[m
+[m
+       -l[m
+           Create the new branch’s reflog; see [1mgit-branch[0m(1) for details.[m
+[m
+       -d, --detach[m
+           Rather than checking out a branch to work on it, check out a commit for inspection and discardable experiments. This is the default[m
+           behavior of [1mgit[0m [1mcheckout[0m [1m<commit>[0m when [1m<commit>[0m is not a branch name. See the "DETACHED HEAD" section below for details.[m
+[m
+       --orphan <new_branch>[m
+           Create a new [4morphan[24m branch, named [1m<new_branch>[0m, started from [1m<start_point>[0m and switch to it. The first commit made on this new branch will[m
+           have no parents and it will be the root of a new history totally disconnected from all the other branches and commits.[m
+[7m Manual page git-checkout(1) line 109 (press h for help or q to quit)[27m[K[K[m
+           The index and the working tree are adjusted as if you had previously run [1mgit[0m [1mcheckout[0m [1m<start_point>[0m. This allows you to start a new history[m
+           that records a set of paths similar to [1m<start_point>[0m by easily running [1mgit[0m [1mcommit[0m [1m-a[0m to make the root commit.[m
+[m
+           This can be useful when you want to publish the tree from a commit without exposing its full history. You might want to do this to publish[m
+           an open source branch of a project whose current tree is "clean", but whose full history contains proprietary or otherwise encumbered bits[m
+           of code.[m
+[m
+           If you want to start a disconnected history that records a set of paths that is totally different from the one of [1m<start_point>[0m, then you[m
+           should clear the index and the working tree right after creating the orphan branch by running [1mgit[0m [1mrm[0m [1m-rf[0m [1m.[0m  from the top level of the[m
+           working tree. Afterwards you will be ready to prepare your new files, repopulating the working tree, by copying them from elsewhere,[m
+           extracting a tarball, etc.[m
+[m
+       --ignore-skip-worktree-bits[m
+           In sparse checkout mode, [1mgit[0m [1mcheckout[0m [1m--[0m [1m<paths>[0m would update only entries matched by [1m<paths>[0m and sparse patterns in[m
+           [1m$GIT_DIR/info/sparse-checkout[0m. This option ignores the sparse patterns and adds back any files in [1m<paths>[0m.[m
+[m
+       -m, --merge[m
+           When switching branches, if you have local modifications to one or more files that are different between the current branch and the branch[m
+           to which you are switching, the command refuses to switch branches in order to preserve your modifications in context. However, with this[m
+           option, a three-way merge between the current branch, your working tree contents, and the new branch is done, and you will be on the new[m
+           branch.[m
+[m
+           When a merge conflict happens, the index entries for conflicting paths are left unmerged, and you need to resolve the conflicts and mark[m
+           the resolved paths with [1mgit[0m [1madd[0m (or [1mgit[0m [1mrm[0m if the merge should result in deletion of the path).[m
+[m
+           When checking out paths from the index, this option lets you recreate the conflicted merge in the specified paths.[m
+[7m Manual page git-checkout(1) line 136 (press h for help or q to quit)[27m[K[K[m
+           When switching branches with [1m--merge[0m, staged changes may be lost.[m
+[m
+       --conflict=<style>[m
+           The same as [1m--merge[0m option above, but changes the way the conflicting hunks are presented, overriding the [1mmerge.conflictStyle[0m configuration[m
+           variable. Possible values are "merge" (default) and "diff3" (in addition to what is shown by "merge" style, shows the original contents).[m
+[m
+       -p, --patch[m
+           Interactively select hunks in the difference between the [1m<tree-ish>[0m (or the index, if unspecified) and the working tree. The chosen hunks[m
+           are then applied in reverse to the working tree (and if a [1m<tree-ish>[0m was specified, the index).[m
+[m
+           This means that you can use [1mgit[0m [1mcheckout[0m [1m-p[0m to selectively discard edits from your current working tree. See the “Interactive Mode” section[m
+           of [1mgit-add[0m(1) to learn how to operate the [1m--patch[0m mode.[m
+[m
+           Note that this option uses the no overlay mode by default (see also [1m--overlay[0m), and currently doesn’t support overlay mode.[m
+[m
+       --ignore-other-worktrees[m
+           [1mgit[0m [1mcheckout[0m refuses when the wanted ref is already checked out by another worktree. This option makes it check the ref out anyway. In[m
+           other words, the ref can be held by more than one worktree.[m
+[m
+       --overwrite-ignore, --no-overwrite-ignore[m
+           Silently overwrite ignored files when switching branches. This is the default behavior. Use [1m--no-overwrite-ignore[0m to abort the operation[m
+           when the new branch contains ignored files.[m
+[m
+       --recurse-submodules, --no-recurse-submodules[m
+           Using [1m--recurse-submodules[0m will update the content of all active submodules according to the commit recorded in the superproject. If local[m
+           modifications in a submodule would be overwritten the checkout will fail unless [1m-f[0m is used. If nothing (or [1m--no-recurse-submodules[0m) is[m
+[7m Manual page git-checkout(1) line 163 (press h for help or q to quit)[27m[K[K           used, submodules working trees will not be updated. Just like [1mgit-submodule[0m(1), this will detach [1mHEAD[0m of the submodule.[m
+[m
+       --overlay, --no-overlay[m
+           In the default overlay mode, [1mgit[0m [1mcheckout[0m never removes files from the index or the working tree. When specifying [1m--no-overlay[0m, files that[m
+           appear in the index and working tree, but not in [1m<tree-ish>[0m are removed, to make them match [1m<tree-ish>[0m exactly.[m
+[m
+       --pathspec-from-file=<file>[m
+           Pathspec is passed in [1m<file>[0m instead of commandline args. If [1m<file>[0m is exactly [1m-[0m then standard input is used. Pathspec elements are[m
+           separated by LF or CR/LF. Pathspec elements can be quoted as explained for the configuration variable [1mcore.quotePath[0m (see [1mgit-config[0m(1)).[m
+           See also [1m--pathspec-file-nul[0m and global [1m--literal-pathspecs[0m.[m
+[m
+       --pathspec-file-nul[m
+           Only meaningful with [1m--pathspec-from-file[0m. Pathspec elements are separated with NUL character and all other characters are taken literally[m
+           (including newlines and quotes).[m
+[m
+       <branch>[m
+           Branch to checkout; if it refers to a branch (i.e., a name that, when prepended with "refs/heads/", is a valid ref), then that branch is[m
+           checked out. Otherwise, if it refers to a valid commit, your [1mHEAD[0m becomes "detached" and you are no longer on any branch (see below for[m
+           details).[m
+[m
+           You can use the [1m@{-N}[0m syntax to refer to the N-th last branch/commit checked out using "git checkout" operation. You may also specify [1m-[0m[m
+           which is synonymous to [1m@{-1}[0m.[m
+[m
+           As a special case, you may use [1mA...B[0m as a shortcut for the merge base of [1mA[0m and [1mB[0m if there is exactly one merge base. You can leave out at[m
+           most one of [1mA[0m and [1mB[0m, in which case it defaults to [1mHEAD[0m.[m
+[m
+       <new_branch>[m
+[7m Manual page git-checkout(1) line 190 (press h for help or q to quit)[27m[K[K           Name for the new branch.[m
+[m
+       <start_point>[m
+           The name of a commit at which to start the new branch; see [1mgit-branch[0m(1) for details. Defaults to [1mHEAD[0m.[m
+[m
+           As a special case, you may use [1m"A...B"[0m as a shortcut for the merge base of [1mA[0m and [1mB[0m if there is exactly one merge base. You can leave out at[m
+           most one of [1mA[0m and [1mB[0m, in which case it defaults to [1mHEAD[0m.[m
+[m
+       <tree-ish>[m
+           Tree to checkout from (when paths are given). If not specified, the index will be used.[m
+[m
+           As a special case, you may use [1m"A...B"[0m as a shortcut for the merge base of [1mA[0m and [1mB[0m if there is exactly one merge base. You can leave out at[m
+           most one of [1mA[0m and [1mB[0m, in which case it defaults to [1mHEAD[0m.[m
+[m
+       --[m
+           Do not interpret any more arguments as options.[m
+[m
+       <pathspec>...[m
+           Limits the paths affected by the operation.[m
+[m
+           For more details, see the [4mpathspec[24m entry in [1mgitglossary[0m(7).[m
+[m
+[1mDETACHED[0m [1mHEAD[0m[m
+       [1mHEAD[0m normally refers to a named branch (e.g. [1mmaster[0m). Meanwhile, each branch refers to a specific commit. Let’s look at a repo with three[m
+       commits, one of them tagged, and with branch [1mmaster[0m checked out:[m
+[m
+                      HEAD (refers to branch 'master')[m
+[7m Manual page git-checkout(1) line 217 (press h for help or q to quit)[27m[K[K                       |[m
+                       v[m
+           a---b---c  branch 'master' (refers to commit 'c')[m
+               ^[m
+               |[m
+             tag 'v2.0' (refers to commit 'b')[m
+[m
+       When a commit is created in this state, the branch is updated to refer to the new commit. Specifically, [4mgit[24m [4mcommit[24m creates a new commit [1md[0m,[m
+       whose parent is commit [1mc[0m, and then updates branch [1mmaster[0m to refer to new commit [1md[0m. [1mHEAD[0m still refers to branch [1mmaster[0m and so indirectly now[m
+       refers to commit [1md[0m:[m
+[m
+           $ edit; git add; git commit[m
+[m
+                          HEAD (refers to branch 'master')[m
+                           |[m
+                           v[m
+           a---b---c---d  branch 'master' (refers to commit 'd')[m
+               ^[m
+               |[m
+             tag 'v2.0' (refers to commit 'b')[m
+[m
+       It is sometimes useful to be able to checkout a commit that is not at the tip of any named branch, or even to create a new commit that is not[m
+       referenced by a named branch. Let’s look at what happens when we checkout commit [1mb[0m (here we show two ways this may be done):[m
+[m
+           $ git checkout v2.0  # or[m
+           $ git checkout master^^[m
+[m
+[7m Manual page git-checkout(1) line 244 (press h for help or q to quit)[27m[K[K              HEAD (refers to commit 'b')[m
+               |[m
+               v[m
+           a---b---c---d  branch 'master' (refers to commit 'd')[m
+               ^[m
+               |[m
+             tag 'v2.0' (refers to commit 'b')[m
+[m
+       Notice that regardless of which checkout command we use, [1mHEAD[0m now refers directly to commit [1mb[0m. This is known as being in detached [1mHEAD[0m state.[m
+       It means simply that [1mHEAD[0m refers to a specific commit, as opposed to referring to a named branch. Let’s see what happens when we create a[m
+       commit:[m
+[m
+           $ edit; git add; git commit[m
+[m
+                HEAD (refers to commit 'e')[m
+                 |[m
+                 v[m
+                 e[m
+                /[m
+           a---b---c---d  branch 'master' (refers to commit 'd')[m
+               ^[m
+               |[m
+             tag 'v2.0' (refers to commit 'b')[m
+[m
+       There is now a new commit [1me[0m, but it is referenced only by [1mHEAD[0m. We can of course add yet another commit in this state:[m
+[m
+           $ edit; git add; git commit[m
+[7m Manual page git-checkout(1) line 271 (press h for help or q to quit)[27m[K[K[m
+                    HEAD (refers to commit 'f')[m
+                     |[m
+                     v[m
+                 e---f[m
+                /[m
+           a---b---c---d  branch 'master' (refers to commit 'd')[m
+               ^[m
+               |[m
+             tag 'v2.0' (refers to commit 'b')[m
+[m
+       In fact, we can perform all the normal Git operations. But, let’s look at what happens when we then checkout [1mmaster[0m:[m
+[m
+           $ git checkout master[m
+[m
+                          HEAD (refers to branch 'master')[m
+                 e---f     |[m
+                /          v[m
+           a---b---c---d  branch 'master' (refers to commit 'd')[m
+               ^[m
+               |[m
+             tag 'v2.0' (refers to commit 'b')[m
+[m
+       It is important to realize that at this point nothing refers to commit [1mf[0m. Eventually commit [1mf[0m (and by extension commit [1me[0m) will be deleted by[m
+       the routine Git garbage collection process, unless we create a reference before that happens. If we have not yet moved away from commit [1mf[0m, any[m
+       of these will create a reference to it:[m
+[m
+[7m Manual page git-checkout(1) line 298 (press h for help or q to quit)[27m[K[K           $ git checkout -b foo   [1m(1)[0m[m
+           $ git branch foo        [1m(2)[0m[m
+           $ git tag foo           [1m(3)[0m[m
+[m
+       [1m1.[0m creates a new branch [1mfoo[0m, which refers to commit [1mf[0m, and then updates [1mHEAD[0m to refer to branch [1mfoo[0m. In other words, we’ll no longer be in[m
+       detached [1mHEAD[0m state after this command.[m
+       [1m2.[0m similarly creates a new branch [1mfoo[0m, which refers to commit [1mf[0m, but leaves [1mHEAD[0m detached.[m
+       [1m3.[0m creates a new tag [1mfoo[0m, which refers to commit [1mf[0m, leaving [1mHEAD[0m detached.[m
+[m
+       If we have moved away from commit [1mf[0m, then we must first recover its object name (typically by using git reflog), and then we can create a[m
+       reference to it. For example, to see the last two commits to which [1mHEAD[0m referred, we can use either of these commands:[m
+[m
+           $ git reflog -2 HEAD # or[m
+           $ git log -g -2 HEAD[m
+[m
+[1mARGUMENT[0m [1mDISAMBIGUATION[0m[m
+       When there is only one argument given and it is not [1m--[0m (e.g. [1mgit[0m [1mcheckout[0m [1mabc[0m), and when the argument is both a valid [1m<tree-ish>[0m (e.g. a branch[m
+       [1mabc[0m exists) and a valid [1m<pathspec>[0m (e.g. a file or a directory whose name is "abc" exists), Git would usually ask you to disambiguate. Because[m
+       checking out a branch is so common an operation, however, [1mgit[0m [1mcheckout[0m [1mabc[0m takes "abc" as a [1m<tree-ish>[0m in such a situation. Use [1mgit[0m [1mcheckout[0m [1m--[0m[m
+       [1m<pathspec>[0m if you want to checkout these paths out of the index.[m
+[m
+[1mEXAMPLES[0m[m
+        1. The following sequence checks out the [1mmaster[0m branch, reverts the [1mMakefile[0m to two revisions back, deletes [1mhello.c[0m by mistake, and gets it[m
+           back from the index.[m
+[m
+               $ git checkout master             [1m(1)[0m[m
+               $ git checkout master~2 Makefile  [1m(2)[0m[m
+[7m Manual page git-checkout(1) line 325 (press h for help or q to quit)[27m[K[K               $ rm -f hello.c[m
+               $ git checkout hello.c            [1m(3)[0m[m
+[m
+           [1m1.[0m switch branch[m
+           [1m2.[0m take a file out of another commit[m
+           [1m3.[0m restore [1mhello.c[0m from the index[m
+[m
+           If you want to check out [4mall[24m C source files out of the index, you can say[m
+[m
+               $ git checkout -- '*.c'[m
+[m
+           Note the quotes around [1m*.c[0m. The file [1mhello.c[0m will also be checked out, even though it is no longer in the working tree, because the file[m
+           globbing is used to match entries in the index (not in the working tree by the shell).[m
+[m
+           If you have an unfortunate branch that is named [1mhello.c[0m, this step would be confused as an instruction to switch to that branch. You should[m
+           instead write:[m
+[m
+               $ git checkout -- hello.c[m
+[m
+        2. After working in the wrong branch, switching to the correct branch would be done using:[m
+[m
+               $ git checkout mytopic[m
+[m
+           However, your "wrong" branch and correct [1mmytopic[0m branch may differ in files that you have modified locally, in which case the above[m
+           checkout would fail like this:[m
+[m
+               $ git checkout mytopic[m
+[7m Manual page git-checkout(1) line 352 (press h for help or q to quit)[27m[K[K               error: You have local changes to 'frotz'; not switching branches.[m
+[m
+           You can give the [1m-m[0m flag to the command, which would try a three-way merge:[m
+[m
+               $ git checkout -m mytopic[m
+               Auto-merging frotz[m
+[m
+           After this three-way merge, the local modifications are [4mnot[24m registered in your index file, so [1mgit[0m [1mdiff[0m would show you what changes you made[m
+           since the tip of the new branch.[m
+[m
+        3. When a merge conflict happens during switching branches with the [1m-m[0m option, you would see something like this:[m
+[m
+               $ git checkout -m mytopic[m
+               Auto-merging frotz[m
+               ERROR: Merge conflict in frotz[m
+               fatal: merge program failed[m
+[m
+           At this point, [1mgit[0m [1mdiff[0m shows the changes cleanly merged as in the previous example, as well as the changes in the conflicted files. Edit[m
+           and resolve the conflict and mark it resolved with [1mgit[0m [1madd[0m as usual:[m
+[m
+               $ edit frotz[m
+               $ git add frotz[m
+[m
+[1mSEE[0m [1mALSO[0m[m
+       [1mgit-switch[0m(1), [1mgit-restore[0m(1)[m
+[m
+[1mGIT[0m[m
+[7m Manual page git-checkout(1) line 379 (press h for help or q to quit)[27m[K[K       Part of the [1mgit[0m(1) suite[m
+[m
+Git 2.34.1                                                            07/09/2025                                                       GIT-CHECKOUT(1)[m
+[7m Manual page git-checkout(1) line 382/408 (END) (press h for help or q to quit)[27m[K[K[K[7m Manual page git-checkout(1) line 382/408 (END) (press h for help or q to quit)[27m[K[K[K[7m Manual page git-checkout(1) line 382/408 (END) (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t
+[3]  + 47144 suspended  git checkou --help
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[111C[🐍 3.12.8][122D[?1h=[?2004h[7mgit checkout -b yellow-letter[27m
+[K[A[31C[27m[32mg[27m[32mi[27m[32mt[39m[27m [27mc[27mh[27me[27mc[27mk[27mo[27mu[27mt[27m [27m-[27mb[27m [27my[27me[27ml[27ml[27mo[27mw[27m-[27ml[27me[27mt[27mt[27me[27mr[1B[K[?1l>[?2004l
+]2;git checkout -b yellow-letter]1;gitSwitched to a new branch 'yellow-letter'
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31myellow-letter[34m) [33m✗[00m [K[104C[🐍 3.12.8][115D[?1h=[?2004h[0m[27m[24m[J[01;32m➜  [36mlongest_word[00m [01;34mgit:([31myellow-letter[34m) [33m✗[00m [K[104C[🐍 3.12.8][115D[7mFLASK_ENV=development poetry run flask run[27m[42D[27mF[27mL[27mA[27mS[27mK[27m_[27mE[27mN[27mV[27m=[27md[27me[27mv[27me[27ml[27mo[27mp[27mm[27me[27mn[27mt[27m [27m[32mp[27m[32mo[27m[32me[27m[32mt[27m[32mr[27m[32my[39m[27m [27mr[27mu[27mn[27m [27mf[27ml[27ma[27ms[27mk[27m [27mr[27mu[27mn[?1l>[?2004l
+]2;FLASK_ENV=development poetry run flask run]1;poetryUsage: flask run [OPTIONS]
+Try 'flask run --help' for help.
+
+Error: While importing 'wsgi', an ImportError was raised:
+
+Traceback (most recent call last):
+  File "/home/mauriciocovizzi/code/MCOVIZZI/longest_word/.venv/lib/python3.12/site-packages/flask/cli.py", line 245, in locate_app
+    __import__(module_name)
+  File "/home/mauriciocovizzi/code/MCOVIZZI/longest_word/wsgi.py", line 4, in <module>
+    from longest_word.game import Game
+ModuleNotFoundError: No module named 'longest_word'
+
+[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word]1;../longest_word[0m[27m[24m[J[01;31m➜  [36mlongest_word[00m [01;34mgit:([31myellow-letter[34m) [33m✗[00m [K[104C[🐍 3.12.8][115D[?1h=[?2004h[1m[31mc[0m[39m[0m[32mc[32md[39m [4ms[24m[4ms[4mr[24m[4mr[4mc[24m[4mc[1m[4m/[0m[24m[4mc[24m[0m[24m [?1l>[?2004l
+]2;cd src]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word/src]1;..gest_word/src[0m[27m[24m[J[01;32m➜  [36msrc[00m [01;34mgit:([31myellow-letter[34m) [33m✗[00m [K[113C[🐍 3.12.8][124D[?1h=[?2004h[1m[31mc[0m[39m[0m[32mc[32md[39m [4ml[24m[4ml[4mo[24m[4mo[4mngest_word[1m[4m/[0m[24m[4md[24m[0m[24m [?1l>[?2004l
+]2;cd longest_word]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                          ]2;mauriciocovizzi@lewagon-data-eng-vm-mcovizzi:~/code/MCOVIZZI/longest_word/src/longest_word]1;../longest_word[0m[27m[24m[J[01;32m➜  
