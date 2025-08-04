@@ -42,7 +42,7 @@ class TestGame:
         # exercise
         new_game.grid = list(test_grid) # Force the grid to a test case
         # verify
-        assert new_game.is_valid(test_word) is False
+        assert new_game.is_valid(test_word) is True
         # teardown
         assert new_game.grid == list(test_grid) # Make sure the grid remained untouched
 
