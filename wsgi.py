@@ -2,7 +2,7 @@
 # pylint: disable=missing-docstring
 
 from flask import Flask
-from longest_word.game import Game
+from src.longest_word.game import Game
 app = Flask(__name__)
 
 @app.route('/check', methods=["POST"])
